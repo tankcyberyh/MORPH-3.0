@@ -142,7 +142,7 @@ def format_duration(seconds: int) -> str:
 logging.basicConfig(level=logging.INFO)
 
 # Инициализация бота
-TOKEN = "8137012238:AAGBcOG8UlEYZj5ciqAygUHVnGe5tg5rO6I"  # Замените на ваш токен
+TOKEN = "8288454936:AAG9kMoPvLIe66_AW7XqTMuL40YtnkVYCzg"  # Замените на ваш токен
 ADMIN_IDS = [5439940299,6570851164]  # Замените на свой Telegram user_id (например, 123456789)
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
