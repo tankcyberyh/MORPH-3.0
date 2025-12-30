@@ -179,7 +179,7 @@ JACKPOT_MIN_PLAYERS = 5
 logging.basicConfig(level=logging.INFO)
 
 # Инициализация бота
-TOKEN = "7900192168:AAGufsWiRvNdzl35iI_2Q6WcB7lTFzNMkmk"  # Замените на ваш токен
+TOKEN = "8288454936:AAG9kMoPvLIe66_AW7XqTMuL40YtnkVYCzg"  # Замените на ваш токен
 ADMIN_IDS = [5439940299,6570851164]  # Замените на свой Telegram user_id (например, 123456789)
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
