@@ -1,6 +1,0 @@
-aiogram==3.0.0
-firebase-admin
-pytz
-pyTelegramBotAPI
-googletrans
-googletrans-py
